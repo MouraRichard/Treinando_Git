@@ -1,1 +1,2 @@
   Aprendendo usar Git Pull para buscar atualizações feitas no branch master.
+  Testando atualizações do clone
