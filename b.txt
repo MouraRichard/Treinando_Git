@@ -1,2 +1,5 @@
   Aprendendo usar Git Pull para buscar atualizações feitas no branch master.
-  Testando atualizações do clone
+  Testando atualizações do clone.
+  Aprendendo sobre stashs... tem muitas kkk
+  Usando as tags.
+  

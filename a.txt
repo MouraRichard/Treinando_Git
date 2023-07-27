@@ -1,1 +1,1 @@
-Pensa num teste que deu trabalho, ao menos aprendi sobre o git rm que deleta arquivos do repo
+Pensa num teste que deu trabalho, ao menos aprendi sobre o git rm (remove) que deleta arquivos do repo
