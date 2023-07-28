@@ -1,1 +1,2 @@
     Tentando adicionar a branch "primeiro_branch" ao git hub podendo acessa-lá e conferir as alterações feitas. (ainda não sei)
+    Aprendendo sobre compratilhamento e atualização de repos, utilizando comando "git fetch".
